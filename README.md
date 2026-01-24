@@ -17,8 +17,8 @@ Webエンジニアの転職を目指して日々勉強しています。
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawa8080">
 </a>
 <a href="https://github.com/kawa8080">
-   <img src="https://github-readme-stats.vercel.app/api?username=kw35670&hide=contribs&count_private=true&show_icons=true">
+   <img src="https://github-readme-stats.vercel.app/api?username=kawa8080&hide=contribs&count_private=true&show_icons=true">
 </a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="https://github.com/kawa8080/github-profile-trophy">
    <img src="https://github-profile-trophy.vercel.app/?username=kawa8080&column=7">
 </a>
