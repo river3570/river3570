@@ -2,6 +2,21 @@
 社会人2年目の新米エンジニアです。  
 React(Next.js), Railsを中心に学習しています。
 
+## 💻技術スタック
+### フロントエンド
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,vite,react,nextjs,vitest,tailwind)](https://skillicons.dev)
+
+### バックエンド・DB
+[![My Skills](https://skillicons.dev/icons?i=java,spring,ruby,rails,python,fastapi,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis)](https://skillicons.dev)
+
+### インフラ
+[![My Skills](https://skillicons.dev/icons?i=docker,vercel,aws)](https://skillicons.dev)
+
+### 開発環境など
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,figma,git,github,ubuntu)](https://skillicons.dev)
+
+
 ## 📝 保有資格
 + ITパスポート
 + 基本情報技術者
