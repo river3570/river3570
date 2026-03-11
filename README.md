@@ -18,7 +18,7 @@ React(Next.js), Railsを中心に学習しています。
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=river3570&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=river3570&theme=gruvbox&utcOffset=9)
 
-![](https://raw.githubusercontent.com/river3570/StudyRecord/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/river3570/river3570/output/github-contribution-grid-snake.svg)
 
 <p align="left">
   <a href="https://github.com/river3570">
