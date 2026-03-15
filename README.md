@@ -4,7 +4,7 @@ React(Next.js), Railsを中心に学習しています。
 
 ## 💻技術スタック
 ### フロントエンド
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,vite,react,nextjs,vitest,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,jquery,vite,react,nextjs,vitest,tailwind)](https://skillicons.dev)
 
 ### バックエンド・DB
 [![My Skills](https://skillicons.dev/icons?i=java,spring,ruby,rails,python,fastapi,typescript)](https://skillicons.dev)
