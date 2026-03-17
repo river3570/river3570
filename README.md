@@ -26,6 +26,13 @@ React(Next.js), Railsを中心に学習しています。
 + Linux Professional Institute Certification Level 1
 + タイピング技能検定 ２級
 
+## ✏️　技術ブログ
+- [【初学者向け】依存性の注入（DI）とは](https://qiita.com/river3570/items/7694c888cb5f2f7506dc)
+- [N+1問題とは？RailsのActiveRecordで理解する原因と解決策](https://qiita.com/river3570/items/80386683d5d85c8ed98a)
+- [意外と知らないHTTPステータスコード集HTTP](https://qiita.com/river3570/items/66c48af8529f861b6dd7)
+- [常用AIをChatGPTからClaudeに変えてみた感想](https://qiita.com/river3570/items/82929a2befa2992ef5ad)
+- [Reactのカスタムフックとは？](https://qiita.com/river3570/items/27147d7506fe5d3bbeb1)
+
 ## ⚖️ 学習履歴
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=river3570&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=river3570&theme=gruvbox)
