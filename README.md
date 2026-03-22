@@ -40,6 +40,9 @@ React(Next.js), Railsを中心に学習しています。
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=river3570&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=river3570&theme=gruvbox&utcOffset=9)
 
+## 🌱 コミット履歴
+<img src="./profile-3d-contrib/profile-green-animate.svg" width=800px height=800px>
+
 ![](https://raw.githubusercontent.com/river3570/river3570/output/github-contribution-grid-snake.svg)
 
 <p align="left">
