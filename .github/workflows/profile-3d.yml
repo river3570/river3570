@@ -20,9 +20,9 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name river3570
+          git config user.email R.riverJob@gmail.com
           git add -A .
-          if git commit -m "generated"; then
+          if git commit -m "コミット履歴の集計"; then
             git push
           fi
