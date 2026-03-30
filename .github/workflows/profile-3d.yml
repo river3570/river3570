@@ -21,7 +21,7 @@ jobs:
       - name: Commit & Push
         run: |
           git config user.name river3570
-          git config user.email R.riverJob@gmail.com
+          git config user.email R.riverJob1590@gmail.com
           git add -A .
           if git commit -m "コミット履歴の集計"; then
             git push
